@@ -59,6 +59,9 @@
       <excludeFolder url="file://$MODULE_DIR$/6-xylophone-flutter/ios/.symlinks/plugins/path_provider_macos/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/6-xylophone-flutter/ios/.symlinks/plugins/path_provider_macos/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/6-xylophone-flutter/ios/.symlinks/plugins/path_provider_macos/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/7-quizzler-reb/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/7-quizzler-reb/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/7-quizzler-reb/build" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
