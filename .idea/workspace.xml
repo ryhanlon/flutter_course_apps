@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting/lib/question.dart" beforeDir="false" afterPath="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting/lib/question.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +12,10 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_28" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting" />
   </component>
   <component name="ProjectId" id="1dSd0YgdoRrP3g6kle81KlAOJw0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,11 +30,7 @@
     <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Flutter.dicee">
-    <configuration name="dicee" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/dicee-flutter/lib/main.dart" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Flutter.quizzler">
     <configuration name="i_am_rich" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/i_am_rich/lib/main.dart" />
       <method v="2" />
@@ -41,10 +39,14 @@
       <option name="filePath" value="$PROJECT_DIR$/i_heart/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="quizzler" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Flutter.i_am_rich" />
       <item itemvalue="Flutter.i_heart" />
-      <item itemvalue="Flutter.dicee" />
+      <item itemvalue="Flutter.quizzler" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -100,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596175042860</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: Quizzler Challenge">
+      <created>1596243467823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596243467823</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,21 +119,27 @@
     <MESSAGE value="feat: start Quizzler" />
     <MESSAGE value="feat: Quizzler Abstraction" />
     <MESSAGE value="feat: Quizzler Inheritance &amp; Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Quizzler Inheritance &amp; Polymorphism" />
+    <MESSAGE value="feat: Quizzler Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Quizzler Challenge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594179605443">
+    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596268442363">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1594179605443" />
-    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1594179600836">
+    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268442363" />
+    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596268413403">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1594179600836" />
-    <state x="-69" y="-929" key="CommitChangelistDialog2" timestamp="1596175042691">
+    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268413403" />
+    <state x="41" y="-800" width="737" height="559" key="#dicee" timestamp="1596268377465">
       <screen x="-324" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
+    <state x="191" y="100" key="CommitChangelistDialog2" timestamp="1596243467603">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="-69" y="-929" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596175042691" />
+    <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
     <state width="1362" height="288" key="GridCell.Tab.0.bottom" timestamp="1594241510389">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
@@ -149,13 +164,15 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1592422335251" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1596175048816">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
+    <state x="227" y="245" key="Vcs.Push.Dialog.v2" timestamp="1596243570700">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596175048816" />
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1596046423272">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
+    <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243570700" />
+    <state x="473" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1596268329516">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596046423272" />
+    <state x="473" y="323" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596268329516" />
   </component>
 </project>
