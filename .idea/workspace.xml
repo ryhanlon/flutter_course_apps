@@ -4,16 +4,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="feat: Quizzler refactor class">
-      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/docs/Destini-Story-Plan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flutter_apps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_apps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting" beforeDir="false" afterPath="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/story.dart" beforeDir="false" afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/story.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/story_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/story_brain.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596268913040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: Destini challenge to TODO26">
+      <created>1596431229911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596431229912</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,7 +137,8 @@
     <MESSAGE value="feat: Quizzler Inheritance &amp; Polymorphism" />
     <MESSAGE value="feat: Quizzler Challenge" />
     <MESSAGE value="feat: Quizzler refactor class" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Quizzler refactor class" />
+    <MESSAGE value="feat: Destini challenge to TODO26" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Destini challenge to TODO26" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596426253198">
@@ -153,10 +153,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="-69" y="-929" key="CommitChangelistDialog2" timestamp="1596271685126">
+    <state x="-45" y="-845" key="CommitChangelistDialog2" timestamp="1596431229485">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-69" y="-929" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596271685126" />
+    <state x="-45" y="-845" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596431229485" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
     <state width="1426" height="288" key="GridCell.Tab.0.bottom" timestamp="1596426616463">
       <screen x="-324" y="-1057" width="1920" height="1057" />
@@ -182,10 +182,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596426390786" />
-    <state x="227" y="245" key="Vcs.Push.Dialog.v2" timestamp="1596243570700">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1596431238821">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596175048816" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596431238821" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243570700" />
     <state x="473" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1596268329516">
       <screen x="0" y="23" width="1440" height="877" />
