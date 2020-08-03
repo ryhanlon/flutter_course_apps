@@ -5,6 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/java/co/appbrewery/destinichallengestarting/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/story.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/lib/story_brain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-destini-challenge-Reb/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +70,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_28" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/8-destini-challenge-Reb" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dSd0YgdoRrP3g6kle81KlAOJw0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +85,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Flutter.destini">
@@ -125,10 +181,22 @@
       <option name="project" value="LOCAL" />
       <updated>1596431229912</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: Destini challenge to TODO26">
+      <created>1596431344547</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596431344547</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/8-destini-challenge-starting" />
+      <path value="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting" />
+      <path value="$PROJECT_DIR$/8-destini-challenge-Reb" />
+    </ignored-roots>
     <MESSAGE value="feat: add Dicee app" />
     <MESSAGE value="feat: add Magic 8 Ball app" />
     <MESSAGE value="feat: add xylophone app" />
@@ -153,44 +221,44 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="-45" y="-845" key="CommitChangelistDialog2" timestamp="1596431229485">
+    <state x="-45" y="-845" key="CommitChangelistDialog2" timestamp="1596431344385">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-45" y="-845" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596431229485" />
+    <state x="-45" y="-845" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596431344385" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
-    <state width="1426" height="288" key="GridCell.Tab.0.bottom" timestamp="1596426616463">
+    <state width="1426" height="288" key="GridCell.Tab.0.bottom" timestamp="1596435579320">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="288" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596426616463" />
-    <state width="1426" height="288" key="GridCell.Tab.0.center" timestamp="1596426616463">
+    <state width="1426" height="288" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596435579320" />
+    <state width="1426" height="288" key="GridCell.Tab.0.center" timestamp="1596435579319">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="288" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596426616463" />
-    <state width="1426" height="288" key="GridCell.Tab.0.left" timestamp="1596426616462">
+    <state width="1426" height="288" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596435579319" />
+    <state width="1426" height="288" key="GridCell.Tab.0.left" timestamp="1596435579318">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="288" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596426616462" />
-    <state width="1426" height="288" key="GridCell.Tab.0.right" timestamp="1596426616463">
+    <state width="1426" height="288" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596435579318" />
+    <state width="1426" height="288" key="GridCell.Tab.0.right" timestamp="1596435579320">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="288" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596426616463" />
+    <state width="1426" height="288" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596435579320" />
     <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="414" y="190" key="RollbackChangesDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243441863" />
-    <state x="137" y="-890" key="SettingsEditor" timestamp="1596426390786">
+    <state x="137" y="-890" key="SettingsEditor" timestamp="1596431477004">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596426390786" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1596431238821">
+    <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596431477004" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1596431489361">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596431238821" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596431489361" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243570700" />
-    <state x="473" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1596268329516">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1596435541408">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596046423272" />
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596435541408" />
     <state x="473" y="323" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596268329516" />
   </component>
 </project>
