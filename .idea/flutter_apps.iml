@@ -74,6 +74,9 @@
       <excludeFolder url="file://$MODULE_DIR$/8-destini-challenge-starting/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/8-destini-challenge-starting/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/8-destini-challenge-starting/build" />
+      <excludeFolder url="file://$MODULE_DIR$/9-bmi-calculator-reb/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/9-bmi-calculator-reb/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/9-bmi-calculator-reb/build" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
