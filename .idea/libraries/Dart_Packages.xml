@@ -334,7 +334,6 @@
       <root url="file://$USER_HOME$/Developer/flutter/packages/flutter_test/lib" />
       <root url="file://$USER_HOME$/Developer/flutter/packages/flutter_web_plugins/lib" />
     </CLASSES>
-    <JAVADOC />
     <SOURCES />
   </library>
 </component>
