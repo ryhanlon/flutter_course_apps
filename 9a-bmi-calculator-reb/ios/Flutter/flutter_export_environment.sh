@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/MacBookPro/Developer/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/MacBookPro/coding/GitHub_Udemy/yu_courses/flutter_course_apps/9-bmi-calculator-reb"
-export "FLUTTER_TARGET=/Users/MacBookPro/coding/GitHub_Udemy/yu_courses/flutter_course_apps/9-bmi-calculator-reb/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/MacBookPro/coding/GitHub_Udemy/yu_courses/flutter_course_apps/9a-bmi-calculator-reb"
+export "FLUTTER_TARGET=/Users/MacBookPro/coding/GitHub_Udemy/yu_courses/flutter_course_apps/9a-bmi-calculator-reb/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"

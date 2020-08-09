@@ -4,14 +4,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/icon_content.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/reusable_card.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flutter_apps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_apps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+    <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="feat: refactor conditional to ternary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9a-bmi-calculator-reb/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/input_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/input_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9a-bmi-calculator-reb/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +44,11 @@
       <recent name="$PROJECT_DIR$/9a-bmi-calculator-reb/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.i_heart">
+  <component name="RunManager" selected="Flutter.bmi-calculator">
+    <configuration name="bmi-calculator" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="destini" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/8-destini-challenge-Reb/lib/main.dart" />
       <method v="2" />
@@ -65,6 +65,12 @@
       <option name="filePath" value="$PROJECT_DIR$/2-i_heart/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Flutter.destini" />
+      <item itemvalue="Flutter.i_am_rich" />
+      <item itemvalue="Flutter.i_heart" />
+      <item itemvalue="Flutter.bmi-calculator" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -175,8 +181,25 @@
       <option name="project" value="LOCAL" />
       <updated>1596697530820</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat: Add icon-content, reusable_card.dart">
+      <created>1596950836613</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596950836614</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -211,59 +234,68 @@
     <MESSAGE value="feat: Project 9, Practice with ThemeData" />
     <MESSAGE value="feat: Add missing files" />
     <MESSAGE value="feat: ReusableCard in bmi-calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: ReusableCard in bmi-calculator" />
+    <MESSAGE value="feat: Add icon-content, reusable_card.dart" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add icon-content, reusable_card.dart" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596950762519">
+    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597001425915">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596950762519" />
-    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596950742203">
+    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597001425915" />
+    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1597001422239">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596950742203" />
+    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597001422239" />
     <state x="41" y="-800" width="737" height="559" key="#dicee" timestamp="1596268377465">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1596697530500">
+    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1597005870626">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596697530500" />
+    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005870626" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
-    <state width="1426" height="246" key="GridCell.Tab.0.bottom" timestamp="1596605694664">
+    <state width="1426" height="20" key="GridCell.Tab.0.bottom" timestamp="1597005564350">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="246" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596605694664" />
-    <state width="1426" height="246" key="GridCell.Tab.0.center" timestamp="1596605694664">
+    <state width="1426" height="20" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564350" />
+    <state width="1426" height="20" key="GridCell.Tab.0.center" timestamp="1597005564349">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="246" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596605694664" />
-    <state width="1426" height="246" key="GridCell.Tab.0.left" timestamp="1596605694663">
+    <state width="1426" height="20" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564349" />
+    <state width="1426" height="20" key="GridCell.Tab.0.left" timestamp="1597005564349">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="246" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596605694663" />
-    <state width="1426" height="246" key="GridCell.Tab.0.right" timestamp="1596605694664">
+    <state width="1426" height="20" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564349" />
+    <state width="1426" height="20" key="GridCell.Tab.0.right" timestamp="1597005564350">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="246" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596605694664" />
+    <state width="1426" height="20" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564350" />
     <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="414" y="190" key="RollbackChangesDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243441863" />
-    <state x="137" y="-890" key="SettingsEditor" timestamp="1596610658526">
+    <state x="137" y="-890" key="SettingsEditor" timestamp="1597005820045">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596610658526" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1596697542345">
+    <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005820045" />
+    <state width="615" height="445" key="SwitcherDM" timestamp="1597005791130">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596697542345" />
+    <state width="615" height="445" key="SwitcherDM/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005791130" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1596950886112">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596950886112" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243570700" />
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1596697440399">
+    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597005835520">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596697440399" />
+    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005835520" />
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1597001361635">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597001361635" />
     <state x="473" y="323" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596268329516" />
   </component>
 </project>
