@@ -4,9 +4,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="feat: refactor conditional to ternary">
+    <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9a-bmi-calculator-reb/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/input_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/input_page.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596950836614</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat: select gender with conditional statement">
+      <created>1597005936680</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1597005936680</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -235,7 +241,8 @@
     <MESSAGE value="feat: Add missing files" />
     <MESSAGE value="feat: ReusableCard in bmi-calculator" />
     <MESSAGE value="feat: Add icon-content, reusable_card.dart" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add icon-content, reusable_card.dart" />
+    <MESSAGE value="feat: select gender with conditional statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: select gender with conditional statement" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597001425915">
@@ -250,35 +257,35 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1597005870626">
+    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1597005936508">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005870626" />
+    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005936508" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
-    <state width="1426" height="20" key="GridCell.Tab.0.bottom" timestamp="1597005564350">
+    <state width="713" height="20" key="GridCell.Tab.0.bottom" timestamp="1597085093590">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="20" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564350" />
-    <state width="1426" height="20" key="GridCell.Tab.0.center" timestamp="1597005564349">
+    <state width="713" height="20" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093590" />
+    <state width="713" height="20" key="GridCell.Tab.0.center" timestamp="1597085093589">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="20" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564349" />
-    <state width="1426" height="20" key="GridCell.Tab.0.left" timestamp="1597005564349">
+    <state width="713" height="20" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093589" />
+    <state width="713" height="20" key="GridCell.Tab.0.left" timestamp="1597085093588">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="20" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564349" />
-    <state width="1426" height="20" key="GridCell.Tab.0.right" timestamp="1597005564350">
+    <state width="713" height="20" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093588" />
+    <state width="713" height="20" key="GridCell.Tab.0.right" timestamp="1597085093589">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1426" height="20" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005564350" />
+    <state width="713" height="20" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093589" />
     <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="414" y="190" key="RollbackChangesDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243441863" />
-    <state x="137" y="-890" key="SettingsEditor" timestamp="1597005820045">
+    <state x="137" y="-890" key="SettingsEditor" timestamp="1597084975609">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005820045" />
+    <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597084975609" />
     <state width="615" height="445" key="SwitcherDM" timestamp="1597005791130">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
@@ -292,10 +299,14 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005835520" />
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1597001361635">
+    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597086571734">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597001361635" />
+    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597086571734" />
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1597084255744">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597084255744" />
     <state x="473" y="323" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596268329516" />
   </component>
 </project>
