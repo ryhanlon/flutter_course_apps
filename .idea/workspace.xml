@@ -7,6 +7,7 @@
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/input_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/input_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/reusable_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/reusable_card.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597005936680</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: select gender with ternary operator">
+      <created>1597086918125</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1597086918126</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -242,7 +250,8 @@
     <MESSAGE value="feat: ReusableCard in bmi-calculator" />
     <MESSAGE value="feat: Add icon-content, reusable_card.dart" />
     <MESSAGE value="feat: select gender with conditional statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: select gender with conditional statement" />
+    <MESSAGE value="feat: select gender with ternary operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: select gender with ternary operator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597001425915">
@@ -257,27 +266,27 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1597005936508">
+    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1597086917897">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005936508" />
+    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597086917897" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
-    <state width="713" height="20" key="GridCell.Tab.0.bottom" timestamp="1597085093590">
+    <state width="1426" height="130" key="GridCell.Tab.0.bottom" timestamp="1597089558006">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="713" height="20" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093590" />
-    <state width="713" height="20" key="GridCell.Tab.0.center" timestamp="1597085093589">
+    <state width="1426" height="130" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597089558006" />
+    <state width="1426" height="130" key="GridCell.Tab.0.center" timestamp="1597089558005">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="713" height="20" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093589" />
-    <state width="713" height="20" key="GridCell.Tab.0.left" timestamp="1597085093588">
+    <state width="1426" height="130" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597089558005" />
+    <state width="1426" height="130" key="GridCell.Tab.0.left" timestamp="1597089558004">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="713" height="20" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093588" />
-    <state width="713" height="20" key="GridCell.Tab.0.right" timestamp="1597085093589">
+    <state width="1426" height="130" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597089558004" />
+    <state width="1426" height="130" key="GridCell.Tab.0.right" timestamp="1597089558005">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="713" height="20" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597085093589" />
+    <state width="1426" height="130" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597089558005" />
     <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -290,10 +299,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state width="615" height="445" key="SwitcherDM/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005791130" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1596950886112">
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1597089540443">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596950886112" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597089540443" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243570700" />
     <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597005835520">
       <screen x="-324" y="-1057" width="1920" height="1057" />
@@ -303,10 +312,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597086571734" />
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1597084255744">
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1597470112173">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597084255744" />
+    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597470112173" />
     <state x="473" y="323" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596268329516" />
   </component>
 </project>
