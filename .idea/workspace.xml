@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/ios/Flutter/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/ios/Flutter/.last_build_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/lib/screen0.dart" beforeDir="false" afterPath="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/lib/screen0.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
       <recent name="$PROJECT_DIR$/9a-bmi-calculator-reb/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.bmi-calculator">
+  <component name="RunManager" selected="Flutter.navigation-demo">
     <configuration name="bmi-calculator" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/main.dart" />
       <method v="2" />
@@ -72,6 +75,10 @@
       <option name="filePath" value="$PROJECT_DIR$/2-i_heart/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="navigation-demo" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="xylophone" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/6-xylophone-flutter/lib/main.dart" />
       <method v="2" />
@@ -82,6 +89,7 @@
       <item itemvalue="Flutter.i_heart" />
       <item itemvalue="Flutter.xylophone" />
       <item itemvalue="Flutter.bmi-calculator" />
+      <item itemvalue="Flutter.navigation-demo" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -242,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597737279327</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="feat: navigation demo">
+      <created>1598337812139</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1598337812139</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -294,31 +309,32 @@
     <MESSAGE value="feat: refactor reusable_card.dart&#10;&#10;Add GestureDetector to reusable_card.dart" />
     <MESSAGE value="feat: add slider" />
     <MESSAGE value="feat: add weight and age" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add weight and age" />
+    <MESSAGE value="feat: navigation demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: navigation demo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598292705554">
+    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598337945948">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598292705554" />
+    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598337945948" />
     <state x="318" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598245850955" />
     <state x="223" y="-806" key="#com.intellij.ide.util.MemberChooser" timestamp="1597518010423">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="223" y="-806" key="#com.intellij.ide.util.MemberChooser/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597518010423" />
-    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1598292702922">
+    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1598337938549">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598292702922" />
+    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598337938549" />
     <state x="523" y="293" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598245835866" />
     <state x="41" y="-800" width="737" height="559" key="#dicee" timestamp="1596268377465">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1597737279114">
+    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1598337811892">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597737279114" />
+    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598337811892" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
     <state x="365" y="100" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1597556217226" />
     <state width="1530" height="131" key="GridCell.Tab.0.bottom" timestamp="1598292919577">
@@ -357,10 +373,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state width="615" height="445" key="SwitcherDM/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005791130" />
-    <state x="227" y="245" key="Vcs.Push.Dialog.v2" timestamp="1598054838130">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1598337817273">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597737286968" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598337817273" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598054838130" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1597556225953" />
     <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597005835520">
