@@ -83,6 +83,9 @@
       <excludeFolder url="file://$MODULE_DIR$/9a-bmi-calculator-reb/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/9a-bmi-calculator-reb/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/9a-bmi-calculator-reb/build" />
+      <excludeFolder url="file://$MODULE_DIR$/9b-Navigation-Flutter-Demo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/9b-Navigation-Flutter-Demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/9b-Navigation-Flutter-Demo/build" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
