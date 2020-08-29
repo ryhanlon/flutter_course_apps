@@ -20,6 +20,9 @@
       <excludeFolder url="file://$MODULE_DIR$/1-i_am_rich/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/1-i_am_rich/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/1-i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/10-Clima-Flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/10-Clima-Flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/10-Clima-Flutter/build" />
       <excludeFolder url="file://$MODULE_DIR$/2-i_heart/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/2-i_heart/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/2-i_heart/build" />
@@ -68,6 +71,9 @@
       <excludeFolder url="file://$MODULE_DIR$/7b-quizzler-flutter-challenge-finalMaster/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/7b-quizzler-flutter-challenge-finalMaster/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/7b-quizzler-flutter-challenge-finalMaster/build" />
+      <excludeFolder url="file://$MODULE_DIR$/7b-quizzler-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/7b-quizzler-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/7b-quizzler-flutter/build" />
       <excludeFolder url="file://$MODULE_DIR$/8-destini-challenge-Reb/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/8-destini-challenge-Reb/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/8-destini-challenge-Reb/build" />
