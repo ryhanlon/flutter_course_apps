@@ -13,7 +13,8 @@ Expanded buildKey({int soundNum, Color color}) {
     child: FlatButton(
       color: color,
       onPressed: () {
-        playSound(soundNum);
+        // playSound(soundNum);
+        print('touch me');
       },
     ),
   );

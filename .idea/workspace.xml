@@ -5,164 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/ic_launcher-web.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/java/co/appbrewery/clima/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/fonts/SpartanMB-Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/images/city_background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/images/location_background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/screens/city_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/screens/loading_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/screens/location_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/services/location.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/services/networking.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/services/weather.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/lib/utilities/constants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Clima-Flutter/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/ic_launcher-web.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/java/co/appbrewery/quizzler/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/AppDelegate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/ios/Runner/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flutter_apps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_apps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +46,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/9a-bmi-calculator-reb/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -445,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598420184796</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="feat: quizzler review">
+      <created>1598681007022</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1598681007022</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -501,7 +359,8 @@
     <MESSAGE value="feat: navigation demo part 2" />
     <MESSAGE value="feat: add navigation for BMI Cal" />
     <MESSAGE value="feat: add styling for results_page.dart&#10;&#10;Separate button widgets to separate files." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add styling for results_page.dart&#10;&#10;Separate button widgets to separate files." />
+    <MESSAGE value="feat: quizzler review" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: quizzler review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="14" y="-863" key="#Inspections" timestamp="1598679882951">
@@ -530,35 +389,35 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1598420184603">
+    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1598681006646">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598420184603" />
+    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598681006646" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
     <state x="365" y="100" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1597556217226" />
-    <state width="1434" height="261" key="GridCell.Tab.0.bottom" timestamp="1598466035369">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1598825210673">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598466035369" />
-    <state width="1398" height="101" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598246766789" />
+    <state width="1434" height="261" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054561" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
     <state width="1398" height="279" key="GridCell.Tab.0.bottom/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1434" height="261" key="GridCell.Tab.0.center" timestamp="1598466035369">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1598825210672">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598466035369" />
-    <state width="1398" height="101" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598246766788" />
+    <state width="1434" height="261" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054560" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210672" />
     <state width="1398" height="279" key="GridCell.Tab.0.center/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1434" height="261" key="GridCell.Tab.0.left" timestamp="1598466035368">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1598825210671">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598466035368" />
-    <state width="1398" height="101" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598246766788" />
+    <state width="1434" height="261" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054560" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210671" />
     <state width="1398" height="279" key="GridCell.Tab.0.left/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295667" />
-    <state width="1434" height="261" key="GridCell.Tab.0.right" timestamp="1598466035369">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1598825210673">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598466035369" />
-    <state width="1398" height="101" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598246766788" />
+    <state width="1434" height="261" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054561" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
     <state width="1398" height="279" key="GridCell.Tab.0.right/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
     <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
       <screen x="0" y="23" width="1440" height="877" />
@@ -572,10 +431,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state width="615" height="445" key="SwitcherDM/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005791130" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1598420193919">
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1598681010624">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598420193919" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598681010624" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598054838130" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1597556225953" />
     <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597005835520">
