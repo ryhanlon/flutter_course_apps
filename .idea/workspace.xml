@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/question.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/ios/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-xylophone-flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/6-xylophone-flutter/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -303,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598681007022</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feat: quizzler review correct answer">
+      <created>1599972168370</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1599972168370</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -360,7 +361,8 @@
     <MESSAGE value="feat: add navigation for BMI Cal" />
     <MESSAGE value="feat: add styling for results_page.dart&#10;&#10;Separate button widgets to separate files." />
     <MESSAGE value="feat: quizzler review" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: quizzler review" />
+    <MESSAGE value="feat: quizzler review correct answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: quizzler review correct answer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="14" y="-863" key="#Inspections" timestamp="1598679882951">
@@ -389,34 +391,34 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1598681006646">
+    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1599972168103">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598681006646" />
+    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972168103" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
     <state x="365" y="100" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1597556217226" />
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1598825210673">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1369" height="260" key="GridCell.Tab.0.bottom" timestamp="1599972275970">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054561" />
+    <state width="1369" height="260" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275970" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
     <state width="1398" height="279" key="GridCell.Tab.0.bottom/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1598825210672">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1369" height="260" key="GridCell.Tab.0.center" timestamp="1599972275970">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054560" />
+    <state width="1369" height="260" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275970" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210672" />
     <state width="1398" height="279" key="GridCell.Tab.0.center/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1598825210671">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1369" height="260" key="GridCell.Tab.0.left" timestamp="1599972275969">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054560" />
+    <state width="1369" height="260" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275969" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210671" />
     <state width="1398" height="279" key="GridCell.Tab.0.left/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295667" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1598825210673">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1369" height="260" key="GridCell.Tab.0.right" timestamp="1599972275970">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1434" height="261" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598683054561" />
+    <state width="1369" height="260" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275970" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
     <state width="1398" height="279" key="GridCell.Tab.0.right/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
     <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
@@ -431,10 +433,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state width="615" height="445" key="SwitcherDM/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005791130" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1598681010624">
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1599972172597">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598681010624" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972172597" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598054838130" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1597556225953" />
     <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597005835520">
