@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/question.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/quiz_brain.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7b-quizzler-flutter/lib/question.dart" beforeDir="false" afterPath="$PROJECT_DIR$/7b-quizzler-flutter/lib/question.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599972168370</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat: quizzler question and answer list">
+      <created>1600317019486</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1600317019486</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -337,7 +345,6 @@
       <path value="$PROJECT_DIR$/8-destini-challenge-Reb" />
       <path value="$PROJECT_DIR$/9-bmi-calculator-reb" />
     </ignored-roots>
-    <MESSAGE value="feat: add Dicee app" />
     <MESSAGE value="feat: add Magic 8 Ball app" />
     <MESSAGE value="feat: add xylophone app" />
     <MESSAGE value="feat: start Quizzler" />
@@ -362,7 +369,8 @@
     <MESSAGE value="feat: add styling for results_page.dart&#10;&#10;Separate button widgets to separate files." />
     <MESSAGE value="feat: quizzler review" />
     <MESSAGE value="feat: quizzler review correct answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: quizzler review correct answer" />
+    <MESSAGE value="feat: quizzler question and answer list" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: quizzler question and answer list" />
   </component>
   <component name="WindowStateProjectService">
     <state x="14" y="-863" key="#Inspections" timestamp="1598679882951">
@@ -391,34 +399,34 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1599972168103">
+    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1600317019300">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972168103" />
+    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600317019300" />
     <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
     <state x="365" y="100" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1597556217226" />
-    <state width="1369" height="260" key="GridCell.Tab.0.bottom" timestamp="1599972275970">
+    <state width="1561" height="260" key="GridCell.Tab.0.bottom" timestamp="1600405434916">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1369" height="260" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275970" />
+    <state width="1561" height="260" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600405434916" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
     <state width="1398" height="279" key="GridCell.Tab.0.bottom/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1369" height="260" key="GridCell.Tab.0.center" timestamp="1599972275970">
+    <state width="1561" height="260" key="GridCell.Tab.0.center" timestamp="1600405434915">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1369" height="260" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275970" />
+    <state width="1561" height="260" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600405434915" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210672" />
     <state width="1398" height="279" key="GridCell.Tab.0.center/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1369" height="260" key="GridCell.Tab.0.left" timestamp="1599972275969">
+    <state width="1561" height="260" key="GridCell.Tab.0.left" timestamp="1600405434915">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1369" height="260" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275969" />
+    <state width="1561" height="260" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600405434915" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210671" />
     <state width="1398" height="279" key="GridCell.Tab.0.left/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295667" />
-    <state width="1369" height="260" key="GridCell.Tab.0.right" timestamp="1599972275970">
+    <state width="1561" height="260" key="GridCell.Tab.0.right" timestamp="1600405434916">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1369" height="260" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972275970" />
+    <state width="1561" height="260" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600405434916" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
     <state width="1398" height="279" key="GridCell.Tab.0.right/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
     <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
@@ -433,10 +441,10 @@
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
     <state width="615" height="445" key="SwitcherDM/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005791130" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1599972172597">
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1600317025747">
       <screen x="-324" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1599972172597" />
+    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600317025747" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598054838130" />
     <state x="227" y="245" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1597556225953" />
     <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597005835520">
@@ -452,5 +460,9 @@
     </state>
     <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598037241405" />
     <state x="473" y="323" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596268329516" />
+    <state x="142" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1600397148603">
+      <screen x="-324" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="142" y="-822" width="670" height="676" key="search.everywhere.popup/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600397148603" />
   </component>
 </project>
