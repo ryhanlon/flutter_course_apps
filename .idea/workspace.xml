@@ -5,81 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/ic_launcher-web.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/java/co/appbrewery/quizzler/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/AppDelegate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/ios/Runner/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/lib/question.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/lib/quiz_brain.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7b-quizzler-challenge-2/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flutter_apps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_apps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/java/co/appbrewery/micard/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +65,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_28" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -112,6 +90,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -130,7 +109,7 @@
       <recent name="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.quizzler-challenge-2">
+  <component name="RunManager" selected="Flutter.mi_card_reb">
     <configuration name="bmi-calculator" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/main.dart" />
       <method v="2" />
@@ -155,16 +134,16 @@
       <option name="filePath" value="$PROJECT_DIR$/2-i_heart/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="mi_card_reb" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="navigation-demo" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/lib/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="quizzler-b" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="quizzler-challenge-2" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/7b-quizzler-challenge-2/lib/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="xylophone" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -179,7 +158,7 @@
       <item itemvalue="Flutter.bmi-calculator" />
       <item itemvalue="Flutter.clima" />
       <item itemvalue="Flutter.quizzler-b" />
-      <item itemvalue="Flutter.quizzler-challenge-2" />
+      <item itemvalue="Flutter.mi_card_reb" />
       <item itemvalue="Flutter.navigation-demo" />
     </list>
   </component>
@@ -411,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600921676916</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="feat: quizzler challenge 2">
+      <created>1601097501464</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1601097501464</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -429,13 +415,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -444,7 +429,6 @@
       <path value="$PROJECT_DIR$/8-destini-challenge-Reb" />
       <path value="$PROJECT_DIR$/9-bmi-calculator-reb" />
     </ignored-roots>
-    <MESSAGE value="feat: start Quizzler" />
     <MESSAGE value="feat: Quizzler Abstraction" />
     <MESSAGE value="feat: Quizzler Inheritance &amp; Polymorphism" />
     <MESSAGE value="feat: Quizzler Challenge" />
@@ -469,115 +453,17 @@
     <MESSAGE value="feat: quizzler question and answer list" />
     <MESSAGE value="feat: abstraction and encapsulation" />
     <MESSAGE value="feat: add scorekeeper" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add scorekeeper" />
+    <MESSAGE value="feat: quizzler challenge 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: quizzler challenge 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="14" y="-863" key="#Inspections" timestamp="1598679882951">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
+    <state x="-29" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611121725214">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="14" y="-863" key="#Inspections/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598679882951" />
-    <state x="167" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601094681497">
-      <screen x="-257" y="-1057" width="1920" height="1057" />
+    <state x="-29" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611121725214" />
+    <state x="244" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1611121718499">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="167" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-257.-1057.1920.1057/0.23.1440.877@-257.-1057.1920.1057" timestamp="1601094681497" />
-    <state x="100" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598679742389" />
-    <state x="318" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598245850955" />
-    <state x="223" y="-806" key="#com.intellij.ide.util.MemberChooser" timestamp="1597518010423">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="223" y="-806" key="#com.intellij.ide.util.MemberChooser/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597518010423" />
-    <state x="440" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1601094678384">
-      <screen x="-257" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="440" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-257.-1057.1920.1057/0.23.1440.877@-257.-1057.1920.1057" timestamp="1601094678384" />
-    <state x="373" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598679739392" />
-    <state x="523" y="293" key="#com.intellij.ide.util.TreeFileChooserDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598245835866" />
-    <state x="102" y="-794" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600921721355">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="102" y="-794" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600921721355" />
-    <state x="41" y="-800" width="737" height="559" key="#dicee" timestamp="1596268377465">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="41" y="-800" width="737" height="559" key="#dicee/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1596268377465" />
-    <state x="163" y="-926" key="CommitChangelistDialog2" timestamp="1600921676733">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="163" y="-926" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600921676733" />
-    <state x="191" y="100" key="CommitChangelistDialog2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243467603" />
-    <state x="-30" y="-926" key="CommitChangelistDialog2/0.23.1440.877/-517.-1057.1920.1057@-517.-1057.1920.1057" timestamp="1600540494024" />
-    <state x="365" y="100" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1597556217226" />
-    <state width="1485" height="260" key="GridCell.Tab.0.bottom" timestamp="1601095647088">
-      <screen x="-257" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1485" height="260" key="GridCell.Tab.0.bottom/-257.-1057.1920.1057/0.23.1440.877@-257.-1057.1920.1057" timestamp="1601095647088" />
-    <state width="742" height="260" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600921781641" />
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
-    <state width="780" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877/-517.-1057.1920.1057@-517.-1057.1920.1057" timestamp="1600540516834" />
-    <state width="1398" height="279" key="GridCell.Tab.0.bottom/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1485" height="260" key="GridCell.Tab.0.center" timestamp="1601095647087">
-      <screen x="-257" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1485" height="260" key="GridCell.Tab.0.center/-257.-1057.1920.1057/0.23.1440.877@-257.-1057.1920.1057" timestamp="1601095647087" />
-    <state width="742" height="260" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600921781640" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210672" />
-    <state width="780" height="260" key="GridCell.Tab.0.center/0.23.1440.877/-517.-1057.1920.1057@-517.-1057.1920.1057" timestamp="1600540516834" />
-    <state width="1398" height="279" key="GridCell.Tab.0.center/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state width="1485" height="260" key="GridCell.Tab.0.left" timestamp="1601095647086">
-      <screen x="-257" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1485" height="260" key="GridCell.Tab.0.left/-257.-1057.1920.1057/0.23.1440.877@-257.-1057.1920.1057" timestamp="1601095647086" />
-    <state width="742" height="260" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600921781640" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210671" />
-    <state width="780" height="260" key="GridCell.Tab.0.left/0.23.1440.877/-517.-1057.1920.1057@-517.-1057.1920.1057" timestamp="1600540516833" />
-    <state width="1398" height="279" key="GridCell.Tab.0.left/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295667" />
-    <state width="1485" height="260" key="GridCell.Tab.0.right" timestamp="1601095647087">
-      <screen x="-257" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1485" height="260" key="GridCell.Tab.0.right/-257.-1057.1920.1057/0.23.1440.877@-257.-1057.1920.1057" timestamp="1601095647087" />
-    <state width="742" height="260" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600921781641" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598825210673" />
-    <state width="780" height="260" key="GridCell.Tab.0.right/0.23.1440.877/-517.-1057.1920.1057@-517.-1057.1920.1057" timestamp="1600540516834" />
-    <state width="1398" height="279" key="GridCell.Tab.0.right/1920.92.1440.877/0.23.1920.1057@1920.92.1440.877" timestamp="1597556295668" />
-    <state x="414" y="190" key="RollbackChangesDialog" timestamp="1596243441863">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="414" y="190" key="RollbackChangesDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596243441863" />
-    <state x="137" y="-890" key="SettingsEditor" timestamp="1598418184893">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="137" y="-890" key="SettingsEditor/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598418184893" />
-    <state width="615" height="445" key="SwitcherDM" timestamp="1597005791130">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="615" height="445" key="SwitcherDM/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005791130" />
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1600921683423">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-22" y="-789" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600921683423" />
-    <state x="227" y="245" key="Vcs.Push.Dialog.v2/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598054838130" />
-    <state x="-215" y="-789" key="Vcs.Push.Dialog.v2/0.23.1440.877/-517.-1057.1920.1057@-517.-1057.1920.1057" timestamp="1600540499703" />
-    <state x="227" y="245" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1597556225953" />
-    <state x="-224" y="-957" width="1403" height="857" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600916328277">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-224" y="-957" width="1403" height="857" key="com.android.tools.idea.avdmanager.AvdListDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600916328277" />
-    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597005835520">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597005835520" />
-    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597086571734">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-224" y="-957" width="1268" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1597086571734" />
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog" timestamp="1598037241405">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="306" y="-696" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1598037241405" />
-    <state x="473" y="323" key="com.intellij.ide.util.TipDialog/-324.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1596268329516" />
-    <state x="142" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1600397148603">
-      <screen x="-324" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="142" y="-822" width="670" height="676" key="search.everywhere.popup/-324.-1057.1920.1057/0.23.1440.877@-324.-1057.1920.1057" timestamp="1600397148603" />
+    <state x="244" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611121718499" />
   </component>
 </project>

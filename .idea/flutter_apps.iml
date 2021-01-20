@@ -29,6 +29,9 @@
       <excludeFolder url="file://$MODULE_DIR$/3-mi_card_flutter/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/3-mi_card_flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/3-mi_card_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/3-mi_card_reb/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/3-mi_card_reb/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/3-mi_card_reb/build" />
       <excludeFolder url="file://$MODULE_DIR$/4-dicee-flutter/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/4-dicee-flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/4-dicee-flutter/build" />
