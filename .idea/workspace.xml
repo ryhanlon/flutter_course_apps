@@ -5,67 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/java/co/appbrewery/micard/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/AppDelegate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_30_x86]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -85,8 +33,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_3a_API_30_x86 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="android.process.acore" />
+    <property name="DEBUGGER_ID" value="Java" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
@@ -96,6 +48,9 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -397,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601097501464</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="feat: my card reb">
+      <created>1611121849770</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1611121849770</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -429,7 +391,6 @@
       <path value="$PROJECT_DIR$/8-destini-challenge-Reb" />
       <path value="$PROJECT_DIR$/9-bmi-calculator-reb" />
     </ignored-roots>
-    <MESSAGE value="feat: Quizzler Abstraction" />
     <MESSAGE value="feat: Quizzler Inheritance &amp; Polymorphism" />
     <MESSAGE value="feat: Quizzler Challenge" />
     <MESSAGE value="feat: Quizzler refactor class" />
@@ -454,7 +415,8 @@
     <MESSAGE value="feat: abstraction and encapsulation" />
     <MESSAGE value="feat: add scorekeeper" />
     <MESSAGE value="feat: quizzler challenge 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: quizzler challenge 2" />
+    <MESSAGE value="feat: my card reb" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: my card reb" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-29" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611121725214">
@@ -465,5 +427,50 @@
       <screen x="-314" y="-1057" width="1920" height="1057" />
     </state>
     <state x="244" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611121718499" />
+    <state x="-157" y="-957" width="1327" height="857" key="AVDManager" timestamp="1611727477319">
+      <screen x="-314" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-157" y="-957" width="1327" height="857" key="AVDManager/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611122463633" />
+    <state x="-157" y="-957" width="1327" height="857" key="AVDManager/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611727477319" />
+    <state x="441" y="-787" key="AndroidProcessChooserDialog" timestamp="1611728389367">
+      <screen x="-314" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="441" y="-787" key="AndroidProcessChooserDialog/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728389367" />
+    <state x="60" y="-954" key="CommitChangelistDialog2" timestamp="1611121849305">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="60" y="-954" key="CommitChangelistDialog2/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611121849305" />
+    <state x="434" y="-792" key="FileChooserDialogImpl" timestamp="1611728249257">
+      <screen x="-314" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="434" y="-792" key="FileChooserDialogImpl/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728249257" />
+    <state width="1821" height="259" key="GridCell.Tab.0.bottom" timestamp="1611728923012">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="259" key="GridCell.Tab.0.bottom/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611728923012" />
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448996" />
+    <state width="1821" height="259" key="GridCell.Tab.0.center" timestamp="1611728923012">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="259" key="GridCell.Tab.0.center/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611728923012" />
+    <state width="1878" height="366" key="GridCell.Tab.0.center/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448994" />
+    <state width="1821" height="259" key="GridCell.Tab.0.left" timestamp="1611728923011">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="259" key="GridCell.Tab.0.left/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611728923011" />
+    <state width="1878" height="366" key="GridCell.Tab.0.left/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448993" />
+    <state width="1821" height="259" key="GridCell.Tab.0.right" timestamp="1611728923012">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="259" key="GridCell.Tab.0.right/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611728923012" />
+    <state width="1878" height="366" key="GridCell.Tab.0.right/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448995" />
+    <state x="134" y="-959" key="SettingsEditor" timestamp="1611728376120">
+      <screen x="-314" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="134" y="-959" key="SettingsEditor/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728376120" />
+    <state x="106" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1611121882418">
+      <screen x="-314" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="106" y="-789" key="Vcs.Push.Dialog.v2/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611121882418" />
   </component>
 </project>
