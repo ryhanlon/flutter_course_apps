@@ -1,496 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/.last_build_id" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Flutter/Flutter.podspec" afterDir="false" />
+    <list default="true" id="aec53ed9-a938-43d3-917a-b72303d98d30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_apps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-mi_card_reb/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6_API_28]" />
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Dart File" />
-      </list>
-    </option>
-  </component>
-  <component name="FlutterView" splitter-proportion="0.4973913" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="48d3744e-02e2-4d01-bebf-2d3a85b27711" />
-  <component name="ProjectId" id="1dSd0YgdoRrP3g6kle81KlAOJw0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1wkXp1m2g1yGOcyfHBjXJjmpz9r" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DEBUGGABLE_DEVICE" value="Pixel_3a_API_30_x86 [emulator-5554]" />
-    <property name="DEBUGGABLE_PROCESS" value="android.process.acore" />
-    <property name="DEBUGGER_ID" value="Java" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHOW_ALL_PROCESSES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/9a-bmi-calculator-reb/lib" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/components" />
-      <recent name="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/screens" />
-    </key>
+  <component name="RunManager">
+    <configuration name="main.dart (1)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/1-i_am_rich/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
   </component>
-  <component name="RunManager" selected="Flutter.mi_card_reb">
-    <configuration name="bmi-calculator" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/9a-bmi-calculator-reb/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="clima" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/10-Clima-Flutter/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="destini" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/8-destini-challenge-Reb/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="i_am_rich" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/i_am_rich/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="i_heart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/i_heart/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="i_heart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/2-i_heart/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mi_card_reb" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/3-mi_card_reb/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="navigation-demo" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/9b-Navigation-Flutter-Demo/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="quizzler-b" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/7b-quizzler-flutter/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="xylophone" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/6-xylophone-flutter/lib/main.dart" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Flutter.destini" />
-      <item itemvalue="Flutter.i_am_rich" />
-      <item itemvalue="Flutter.i_heart" />
-      <item itemvalue="Flutter.xylophone" />
-      <item itemvalue="Flutter.bmi-calculator" />
-      <item itemvalue="Flutter.clima" />
-      <item itemvalue="Flutter.quizzler-b" />
-      <item itemvalue="Flutter.mi_card_reb" />
-      <item itemvalue="Flutter.navigation-demo" />
-    </list>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b129ff7-50c1-4acb-9a6f-04b853155706" name="Default Changelist" comment="" />
-      <created>1592422206218</created>
+      <changelist id="aec53ed9-a938-43d3-917a-b72303d98d30" name="Default Changelist" comment="" />
+      <created>1629003759369</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592422206218</updated>
+      <updated>1629003759369</updated>
+      <workItem from="1629357864979" duration="14000" />
     </task>
-    <task id="LOCAL-00001" summary="feat: add Dicee app">
-      <created>1594179777465</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1594179777465</updated>
-    </task>
-    <task id="LOCAL-00002" summary="feat: add Magic 8 Ball app">
-      <created>1594249252221</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1594249252221</updated>
-    </task>
-    <task id="LOCAL-00003" summary="feat: add xylophone app">
-      <created>1594507316116</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1594507316116</updated>
-    </task>
-    <task id="LOCAL-00004" summary="feat: start Quizzler">
-      <created>1595832668154</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1595832668154</updated>
-    </task>
-    <task id="LOCAL-00005" summary="feat: Quizzler Abstraction">
-      <created>1596051692580</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1596051692580</updated>
-    </task>
-    <task id="LOCAL-00006" summary="feat: Quizzler Inheritance &amp; Polymorphism">
-      <created>1596175042860</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1596175042860</updated>
-    </task>
-    <task id="LOCAL-00007" summary="feat: Quizzler Challenge">
-      <created>1596243467823</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1596243467823</updated>
-    </task>
-    <task id="LOCAL-00008" summary="feat: Quizzler refactor class">
-      <created>1596268913040</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1596268913040</updated>
-    </task>
-    <task id="LOCAL-00009" summary="feat: Destini challenge to TODO26">
-      <created>1596431229911</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1596431229912</updated>
-    </task>
-    <task id="LOCAL-00010" summary="feat: Destini challenge to TODO26">
-      <created>1596431344547</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1596431344547</updated>
-    </task>
-    <task id="LOCAL-00011" summary="feat: Destini app completed">
-      <created>1596436421556</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1596436421556</updated>
-    </task>
-    <task id="LOCAL-00012" summary="feat: Project 9, Practice with ThemeData">
-      <created>1596610771468</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1596610771468</updated>
-    </task>
-    <task id="LOCAL-00013" summary="feat: Add missing files">
-      <created>1596610892967</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1596610892967</updated>
-    </task>
-    <task id="LOCAL-00014" summary="feat: ReusableCard in bmi-calculator">
-      <created>1596697530820</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1596697530820</updated>
-    </task>
-    <task id="LOCAL-00015" summary="feat: Add icon-content, reusable_card.dart">
-      <created>1596950836613</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1596950836614</updated>
-    </task>
-    <task id="LOCAL-00016" summary="feat: select gender with conditional statement">
-      <created>1597005936680</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1597005936680</updated>
-    </task>
-    <task id="LOCAL-00017" summary="feat: select gender with ternary operator">
-      <created>1597086918125</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1597086918126</updated>
-    </task>
-    <task id="LOCAL-00018" summary="feat: refactor reusable_card.dart&#10;&#10;Add GestureDetector to reusable_card.dart">
-      <created>1597471414625</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1597471414625</updated>
-    </task>
-    <task id="LOCAL-00019" summary="feat: add slider">
-      <created>1597474295700</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1597474295700</updated>
-    </task>
-    <task id="LOCAL-00020" summary="feat: add slider">
-      <created>1597556217556</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1597556217557</updated>
-    </task>
-    <task id="LOCAL-00021" summary="feat: add weight and age">
-      <created>1597737279327</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1597737279327</updated>
-    </task>
-    <task id="LOCAL-00022" summary="feat: navigation demo">
-      <created>1598337812139</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1598337812139</updated>
-    </task>
-    <task id="LOCAL-00023" summary="feat: navigation demo part 2">
-      <created>1598338575187</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1598338575187</updated>
-    </task>
-    <task id="LOCAL-00024" summary="feat: add navigation for BMI Cal">
-      <created>1598340368657</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1598340368657</updated>
-    </task>
-    <task id="LOCAL-00025" summary="feat: add styling for results_page.dart&#10;&#10;Separate button widgets to separate files.">
-      <created>1598420184796</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1598420184796</updated>
-    </task>
-    <task id="LOCAL-00026" summary="feat: quizzler review">
-      <created>1598681007022</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1598681007022</updated>
-    </task>
-    <task id="LOCAL-00027" summary="feat: quizzler review correct answer">
-      <created>1599972168370</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1599972168370</updated>
-    </task>
-    <task id="LOCAL-00028" summary="feat: quizzler question and answer list">
-      <created>1600317019486</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1600317019486</updated>
-    </task>
-    <task id="LOCAL-00029" summary="feat: abstraction and encapsulation">
-      <created>1600405941028</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1600405941028</updated>
-    </task>
-    <task id="LOCAL-00030" summary="feat: abstraction and encapsulation">
-      <created>1600540494324</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1600540494325</updated>
-    </task>
-    <task id="LOCAL-00031" summary="feat: add scorekeeper">
-      <created>1600921676915</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1600921676916</updated>
-    </task>
-    <task id="LOCAL-00032" summary="feat: quizzler challenge 2">
-      <created>1601097501464</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1601097501464</updated>
-    </task>
-    <task id="LOCAL-00033" summary="feat: my card reb">
-      <created>1611121849770</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1611121849770</updated>
-    </task>
-    <task id="LOCAL-00034" summary="feat: my card reb, add container">
-      <created>1611729348913</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1611729348914</updated>
-    </task>
-    <option name="localTasksCounter" value="35" />
     <servers />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/8-destini-challenge-starting" />
-      <path value="$PROJECT_DIR$/7a-quizzler-flutter-challenge-starting" />
-      <path value="$PROJECT_DIR$/8-destini-challenge-Reb" />
-      <path value="$PROJECT_DIR$/9-bmi-calculator-reb" />
-    </ignored-roots>
-    <MESSAGE value="feat: Quizzler Challenge" />
-    <MESSAGE value="feat: Quizzler refactor class" />
-    <MESSAGE value="feat: Destini challenge to TODO26" />
-    <MESSAGE value="feat: Destini app completed" />
-    <MESSAGE value="feat: Project 9, Practice with ThemeData" />
-    <MESSAGE value="feat: Add missing files" />
-    <MESSAGE value="feat: ReusableCard in bmi-calculator" />
-    <MESSAGE value="feat: Add icon-content, reusable_card.dart" />
-    <MESSAGE value="feat: select gender with conditional statement" />
-    <MESSAGE value="feat: select gender with ternary operator" />
-    <MESSAGE value="feat: refactor reusable_card.dart&#10;&#10;Add GestureDetector to reusable_card.dart" />
-    <MESSAGE value="feat: add slider" />
-    <MESSAGE value="feat: add weight and age" />
-    <MESSAGE value="feat: navigation demo" />
-    <MESSAGE value="feat: navigation demo part 2" />
-    <MESSAGE value="feat: add navigation for BMI Cal" />
-    <MESSAGE value="feat: add styling for results_page.dart&#10;&#10;Separate button widgets to separate files." />
-    <MESSAGE value="feat: quizzler review" />
-    <MESSAGE value="feat: quizzler review correct answer" />
-    <MESSAGE value="feat: quizzler question and answer list" />
-    <MESSAGE value="feat: abstraction and encapsulation" />
-    <MESSAGE value="feat: add scorekeeper" />
-    <MESSAGE value="feat: quizzler challenge 2" />
-    <MESSAGE value="feat: my card reb" />
-    <MESSAGE value="feat: my card reb, add container" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: my card reb, add container" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-29" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611121725214">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-29" y="-867" key="#com.intellij.execution.impl.EditConfigurationsDialog/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611121725214" />
-    <state x="244" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1611121718499">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="244" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611121718499" />
-    <state x="-157" y="-957" width="1327" height="857" key="AVDManager" timestamp="1614058602050">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-157" y="-957" width="1327" height="857" key="AVDManager/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1614058602050" />
-    <state x="-157" y="-957" width="1327" height="857" key="AVDManager/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611727477319" />
-    <state x="441" y="-770" key="AndroidProcessChooserDialog" timestamp="1614058264644">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="441" y="-770" key="AndroidProcessChooserDialog/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1614058264644" />
-    <state x="441" y="-787" key="AndroidProcessChooserDialog/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728389367" />
-    <state x="60" y="-954" key="CommitChangelistDialog2" timestamp="1611729348611">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="60" y="-954" key="CommitChangelistDialog2/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611729348611" />
-    <state x="434" y="-792" key="FileChooserDialogImpl" timestamp="1611728249257">
-      <screen x="-314" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="434" y="-792" key="FileChooserDialogImpl/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728249257" />
-    <state width="1747" height="259" key="GridCell.Tab.0.bottom" timestamp="1614058525492">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1747" height="259" key="GridCell.Tab.0.bottom/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1614058525492" />
-    <state width="1878" height="366" key="GridCell.Tab.0.bottom/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448996" />
-    <state width="1747" height="259" key="GridCell.Tab.0.center" timestamp="1614058525491">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1747" height="259" key="GridCell.Tab.0.center/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1614058525491" />
-    <state width="1878" height="366" key="GridCell.Tab.0.center/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448994" />
-    <state width="1747" height="259" key="GridCell.Tab.0.left" timestamp="1614058525491">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1747" height="259" key="GridCell.Tab.0.left/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1614058525491" />
-    <state width="1878" height="366" key="GridCell.Tab.0.left/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448993" />
-    <state width="1747" height="259" key="GridCell.Tab.0.right" timestamp="1614058525492">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1747" height="259" key="GridCell.Tab.0.right/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1614058525492" />
-    <state width="1878" height="366" key="GridCell.Tab.0.right/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728448995" />
-    <state x="134" y="-939" key="SettingsEditor" timestamp="1614057316256">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="134" y="-939" key="SettingsEditor/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1614057316256" />
-    <state x="134" y="-959" key="SettingsEditor/-314.-1080.1920.1080/0.0.1440.900@-314.-1080.1920.1080" timestamp="1611728376120" />
-    <state x="106" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1611729353579">
-      <screen x="-314" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="106" y="-789" key="Vcs.Push.Dialog.v2/-314.-1057.1920.1057/0.23.1440.877@-314.-1057.1920.1057" timestamp="1611729353579" />
   </component>
 </project>
